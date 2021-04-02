@@ -2,7 +2,7 @@ import React from 'react';
 import './SeasonDisplay.css';
 
 const getSeason = (lat, month) => {
-  console.log(lat, month);
+  //console.log(lat, month);
   if (month > 2 && month < 9) {
     return lat > 0 ? 'summer' : 'winter';
   } else {
