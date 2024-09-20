@@ -1,12 +1,16 @@
 {
   "books": [
     {
-      "title": "Amadeus",
+      "title": "Amadeus 2",
       "id": 2
     },
     {
-      "title": "Covenant 2",
-      "id": 3
+      "title": "Up 3",
+      "id": 4
+    },
+    {
+      "title": "Allegiant",
+      "id": 5
     }
   ]
 }
