@@ -3,19 +3,25 @@ function App() {
   return (
     <div>
       <div>
-        <Button primary>Hello World!</Button>
+        <Button primary outline rounded>
+          Hello World!
+        </Button>
       </div>
       <div>
         <Button secondary>Hi there!</Button>
       </div>
       <div>
-        <Button>Bye!</Button>
+        <Button success>Bye!</Button>
       </div>
       <div>
-        <Button>See Ya!</Button>
+        <Button warning outline>
+          See Ya!
+        </Button>
       </div>
       <div>
-        <Button>Hello again!</Button>
+        <Button danger rounded>
+          Hello again!
+        </Button>
       </div>
     </div>
   );
